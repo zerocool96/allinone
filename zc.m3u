@@ -5,118 +5,125 @@ https://embed-cloudfront.wistia.com/deliveries/282114c59788866afb4d40b935a62258.
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml.gz"
 #EXTM3U x-tvg-url="https://tsepg.cf/jio.xml.gz"
 
-#EXTINF:-1 tvg-id="10767" tvg-logo="http://cooltv4u.xyz/stalker_portal/misc/logos/320/6184.jpg" group-title="TAMIL" STAR  VIJAY
+#EXTINF:-1 tvg-id="10767" tvg-logo="http://cooltv4u.xyz/stalker_portal/misc/logos/320/6184.jpg" group-title="TAMIL", STAR  VIJAY  _4K
 https://allinonereborn.com/cool.php?id=10767
 
-#EXTINF:-1 tvg-id="11431" tvg-logo="http://cooltv4u.xyz/stalker_portal/misc/logos/320/4744.jpg" group-title="TAMIL" STAR VIJAY
+#EXTINF:-1 tvg-id="11431" tvg-logo="http://cooltv4u.xyz/stalker_portal/misc/logos/320/4744.jpg" group-title="TAMIL", STAR VIJAY  _4K
 https://allinonereborn.com/cool.php?id=11431
 
-#EXTINF:-1 tvg-id="10768" tvg-logo="http://cooltv4u.xyz/stalker_portal/misc/logos/320/1815.jpg" group-title="TAMIL" STAR VIJAY_4K (Bakup)
+#EXTINF:-1 tvg-id="10768" tvg-logo="http://cooltv4u.xyz/stalker_portal/misc/logos/320/1815.jpg" group-title="TAMIL", STAR VIJAY _4K (Bakup)
 https://allinonereborn.com/cool.php?id=10768
 
-#EXTINF:-1 tvg-id="10607" tvg-logo="http://cooltv4u.xyz/stalker_portal/misc/logos/320/1444.jpg" group-title="TAMIL" VIJAY SUPER_4K
+#EXTINF:-1 tvg-id="10607" tvg-logo="http://cooltv4u.xyz/stalker_portal/misc/logos/320/1444.jpg" group-title="TAMIL", VIJAY SUPER _4K
 https://allinonereborn.com/cool.php?id=10607
 
-#EXTINF:-1 tvg-id="10608" tvg-logo="http://cooltv4u.xyz/stalker_portal/misc/logos/320/4508.jpg" group-title="TAMIL" VIJAY  SUPER_HD
+#EXTINF:-1 tvg-id="10608" tvg-logo="http://cooltv4u.xyz/stalker_portal/misc/logos/320/4508.jpg" group-title="TAMIL", VIJAY  SUPER_HD
 https://allinonereborn.com/cool.php?id=10608
 
-#EXTINF:-1 tvg-id="10689" tvg-logo="http://cooltv4u.xyz/stalker_portal/misc/logos/320/1417.jpg" group-title="TAMIL" SUN TV
+#EXTINF:-1 tvg-id="10689" tvg-logo="http://cooltv4u.xyz/stalker_portal/misc/logos/320/1417.jpg" group-title="TAMIL", SUN TV_ 4K (S)
 https://allinonereborn.com/cool.php?id=10689
 
-#EXTINF:-1 tvg-id="10764" tvg-logo="http://cooltv4u.xyz/stalker_portal/misc/logos/320/2235.png" group-title="TAMIL" SUNTV_4K
+#EXTINF:-1 tvg-id="10764" tvg-logo="http://cooltv4u.xyz/stalker_portal/misc/logos/320/2235.png" group-title="TAMIL", SUNTV_ 4K_  (SI)
 https://allinonereborn.com/cool.php?id=10764
 
-#EXTINF:-1 tvg-id="10763" tvg-logo="http://cooltv4u.xyz/stalker_portal/misc/logos/320/1416.jpg" group-title="TAMIL" ZEE TAMIL _4k
+#EXTINF:-1 tvg-id="24651" tvg-logo="" group-title="TAMIL", SUN TV _HD (BACK UP)
+https://allinonereborn.com/cool.php?id=24651
+
+#EXTINF:-1 tvg-id="10763" tvg-logo="http://cooltv4u.xyz/stalker_portal/misc/logos/320/1416.jpg" group-title="TAMIL", ZEE TAMIL _4k
 https://allinonereborn.com/cool.php?id=10763
 
-#EXTINF:-1 tvg-id="5573" tvg-logo="http://cooltv4u.xyz/stalker_portal/misc/logos/320/1428.jpg" group-title="TAMIL" RAJ TV_ HD
+#EXTINF:-1 tvg-id="7878" tvg-logo="http://cooltv4u.xyz/stalker_portal/misc/logos/320/1672.jpg" group-title="TAMIL", COLORS TAMIL_ 4K
+https://allinonereborn.com/cool.php?id=7878
+
+#EXTINF:-1 tvg-id="5573" tvg-logo="http://cooltv4u.xyz/stalker_portal/misc/logos/320/1428.jpg" group-title="TAMIL", RAJ TV_ HD
 https://allinonereborn.com/cool.php?id=5573
 
-#EXTINF:-1 tvg-id="10878" tvg-logo="http://cooltv4u.xyz/stalker_portal/misc/logos/320/5406.jpg" group-title="MALAYALAM" 24 NEWS _4K  (S)
+#EXTINF:-1 tvg-id="10878" tvg-logo="http://cooltv4u.xyz/stalker_portal/misc/logos/320/5406.jpg" group-title="MALAYALAM", 24 NEWS _4K  (S)
 https://allinonereborn.com/cool.php?id=10878
 
-#EXTINF:-1 tvg-id="24011" tvg-logo="http://cooltv4u.xyz/stalker_portal/misc/logos/320/23859.jpg" group-title="TAMIL" ASIANET NEWS _TAMIL_HD (S)
+#EXTINF:-1 tvg-id="24011" tvg-logo="http://cooltv4u.xyz/stalker_portal/misc/logos/320/23859.jpg" group-title="TAMIL", ASIANET NEWS _TAMIL_HD (S)
 https://allinonereborn.com/cool.php?id=24011
 
-#EXTINF:-1 tvg-id="24012" tvg-logo="http://cooltv4u.xyz/stalker_portal/misc/logos/320/23860.jpg" group-title="TAMIL" ASIANET NEWS_TAMIL_HD (S)
+#EXTINF:-1 tvg-id="24012" tvg-logo="http://cooltv4u.xyz/stalker_portal/misc/logos/320/23860.jpg" group-title="TAMIL", ASIANET NEWS_TAMIL_HD (S)
 https://allinonereborn.com/cool.php?id=24012
 
-#EXTINF:-1 tvg-id="10765" tvg-logo="http://cooltv4u.xyz/stalker_portal/misc/logos/320/1446.jpg" group-title="TAMIL" SUN LIFE_HD
+#EXTINF:-1 tvg-id="10765" tvg-logo="http://cooltv4u.xyz/stalker_portal/misc/logos/320/1446.jpg" group-title="TAMIL", SUN LIFE_HD
 https://allinonereborn.com/cool.php?id=10765
 
-#EXTINF:-1 tvg-id="24439" tvg-logo="" group-title="TAMIL" SUN NEWS HD (S)
+#EXTINF:-1 tvg-id="24439" tvg-logo="" group-title="TAMIL", SUN NEWS HD (S)
 https://allinonereborn.com/cool.php?id=24439
 
-#EXTINF:-1 tvg-id="7409" tvg-logo="http://cooltv4u.xyz/stalker_portal/misc/logos/320/1422.jpg" group-title="TAMIL" ADITYA TV _HD
+#EXTINF:-1 tvg-id="7409" tvg-logo="http://cooltv4u.xyz/stalker_portal/misc/logos/320/1422.jpg" group-title="TAMIL", ADITYA TV _HD
 https://allinonereborn.com/cool.php?id=7409
 
-#EXTINF:-1 tvg-id="5572" tvg-logo="http://cooltv4u.xyz/stalker_portal/misc/logos/320/1427.jpg" group-title="TAMIL" VENDHAR TV_HD
+#EXTINF:-1 tvg-id="5572" tvg-logo="http://cooltv4u.xyz/stalker_portal/misc/logos/320/1427.jpg" group-title="TAMIL", VENDHAR TV_HD
 https://allinonereborn.com/cool.php?id=5572
 
-#EXTINF:-1 tvg-id="3700" tvg-logo="http://cooltv4u.xyz/stalker_portal/misc/logos/320/1443.png" group-title="TAMIL" DISCOVERY CHNNEL_ HD
+#EXTINF:-1 tvg-id="3700" tvg-logo="http://cooltv4u.xyz/stalker_portal/misc/logos/320/1443.png" group-title="TAMIL", DISCOVERY CHNNEL_ HD
 https://allinonereborn.com/cool.php?id=3700
 
-#EXTINF:-1 tvg-id="7714" tvg-logo="http://cooltv4u.xyz/stalker_portal/misc/logos/320/4159.jpg" group-title="TAMIL" TRAVEL  XP _ 4K
+#EXTINF:-1 tvg-id="7714" tvg-logo="http://cooltv4u.xyz/stalker_portal/misc/logos/320/4159.jpg" group-title="TAMIL", TRAVEL  XP _ 4K
 https://allinonereborn.com/cool.php?id=7714
 
-#EXTINF:-1 tvg-id="5575" tvg-logo="http://cooltv4u.xyz/stalker_portal/misc/logos/320/1430.jpg" group-title="TAMIL" RAJ NEWS 24_X7 _HD
+#EXTINF:-1 tvg-id="5575" tvg-logo="http://cooltv4u.xyz/stalker_portal/misc/logos/320/1430.jpg" group-title="TAMIL", RAJ NEWS 24_X7 _HD
 https://allinonereborn.com/cool.php?id=5575
 
-#EXTINF:-1 tvg-id="7278" tvg-logo="http://cooltv4u.xyz/stalker_portal/misc/logos/320/1431.jpg" group-title="TAMIL" NEWS 7_HD
+#EXTINF:-1 tvg-id="7278" tvg-logo="http://cooltv4u.xyz/stalker_portal/misc/logos/320/1431.jpg" group-title="TAMIL", NEWS 7_HD
 https://allinonereborn.com/cool.php?id=7278
 
-#EXTINF:-1 tvg-id="7279" tvg-logo="http://cooltv4u.xyz/stalker_portal/misc/logos/320/1445.jpg" group-title="TAMIL" POLIMER NEWS _HD
+#EXTINF:-1 tvg-id="7279" tvg-logo="http://cooltv4u.xyz/stalker_portal/misc/logos/320/1445.jpg" group-title="TAMIL", POLIMER NEWS _HD
 https://allinonereborn.com/cool.php?id=7279
 
-#EXTINF:-1 tvg-id="5577" tvg-logo="http://cooltv4u.xyz/stalker_portal/misc/logos/320/1432.jpg" group-title="TAMIL" POLIMER TV _HD
+#EXTINF:-1 tvg-id="5577" tvg-logo="http://cooltv4u.xyz/stalker_portal/misc/logos/320/1432.jpg" group-title="TAMIL", POLIMER TV _HD
 https://allinonereborn.com/cool.php?id=5577
 
-#EXTINF:-1 tvg-id="11436" tvg-logo="http://cooltv4u.xyz/stalker_portal/misc/logos/320/1433.png" group-title="TAMIL" PUTHUYUGAM TV _HD
+#EXTINF:-1 tvg-id="11436" tvg-logo="http://cooltv4u.xyz/stalker_portal/misc/logos/320/1433.png" group-title="TAMIL", PUTHUYUGAM TV _HD
 https://allinonereborn.com/cool.php?id=11436
 
-#EXTINF:-1 tvg-id="10761" tvg-logo="http://cooltv4u.xyz/stalker_portal/misc/logos/320/5882.jpg" group-title="TAMIL" THANTHI NEWS TV _HD
+#EXTINF:-1 tvg-id="10761" tvg-logo="http://cooltv4u.xyz/stalker_portal/misc/logos/320/5882.jpg" group-title="TAMIL", THANTHI NEWS TV _HD
 https://allinonereborn.com/cool.php?id=10761
 
-#EXTINF:-1 tvg-id="11214" tvg-logo="http://cooltv4u.xyz/stalker_portal/misc/logos/320/6438.jpg" group-title="TAMIL" JOTHI TV_ HD
-https://allinonereborn.com/cool.php?id=11214
-
-#EXTINF:-1 tvg-id="3407" tvg-logo="" group-title="TAMIL" Sri Sankara TV
+#EXTINF:-1 tvg-id="3407" tvg-logo="" group-title="TAMIL", Sri Sankara TV
 https://allinonereborn.com/cool.php?id=3407
 
-#EXTINF:-1 tvg-id="1573" tvg-logo="" group-title="TAMIL"  MAKKAL_TV HD
+#EXTINF:-1 tvg-id="1573" tvg-logo="" group-title="TAMIL",  MAKKAL_TV HD
 https://allinonereborn.com/cool.php?id=1573
 
-#EXTINF:-1 tvg-id="7712" tvg-logo="http://cooltv4u.xyz/stalker_portal/misc/logos/320/1455.jpg" group-title="TAMIL" CHITHIRAM TV_ HD
+#EXTINF:-1 tvg-id="7712" tvg-logo="http://cooltv4u.xyz/stalker_portal/misc/logos/320/1455.jpg" group-title="TAMIL", CHITHIRAM TV_ HD
 https://allinonereborn.com/cool.php?id=7712
 
-#EXTINF:-1 tvg-id="7715" tvg-logo="" group-title="TAMIL" Cartoon Network_ 4K
+#EXTINF:-1 tvg-id="7715" tvg-logo="" group-title="TAMIL", Cartoon Network_ 4K
 https://allinonereborn.com/cool.php?id=7715
 
-#EXTINF:-1 tvg-id="24001" tvg-logo="http://cooltv4u.xyz/stalker_portal/misc/logos/320/23853.png" group-title="TAMIL" NEWS 18 TAMIL_  HD
+#EXTINF:-1 tvg-id="24001" tvg-logo="http://cooltv4u.xyz/stalker_portal/misc/logos/320/23853.png" group-title="TAMIL", NEWS 18 TAMIL_  HD
 https://allinonereborn.com/cool.php?id=24001
 
-#EXTINF:-1 tvg-id="7992" tvg-logo="http://cooltv4u.xyz/stalker_portal/misc/logos/320/2527.png" group-title="MALAYALAM" ASIANET NEWS _HD (S)
+#EXTINF:-1 tvg-id="7992" tvg-logo="http://cooltv4u.xyz/stalker_portal/misc/logos/320/2527.png" group-title="MALAYALAM", ASIANET NEWS _HD (S)
 https://allinonereborn.com/cool.php?id=7992
 
-#EXTINF:-1 tvg-id="10628" tvg-logo="http://cooltv4u.xyz/stalker_portal/misc/logos/320/1373.png" group-title="MALAYALAM" ASIANET NEWS_ 4K (S)
+#EXTINF:-1 tvg-id="10628" tvg-logo="http://cooltv4u.xyz/stalker_portal/misc/logos/320/1373.png" group-title="MALAYALAM", ASIANET NEWS_ 4K (S)
 https://allinonereborn.com/cool.php?id=10628
 
-#EXTINF:-1 tvg-id="8032" tvg-logo="http://cooltv4u.xyz/stalker_portal/misc/logos/320/1377.png" group-title="MALAYALAM" MEDIA ONE_ 4K  (S)
+#EXTINF:-1 tvg-id="8032" tvg-logo="http://cooltv4u.xyz/stalker_portal/misc/logos/320/1377.png" group-title="MALAYALAM", MEDIA ONE_ 4K  (S)
 https://allinonereborn.com/cool.php?id=8032
 
-#EXTINF:-1 tvg-id="7378" tvg-logo="http://cooltv4u.xyz/stalker_portal/misc/logos/320/1391.jpg" group-title="MALAYALAM" REPORTER TV_HD (S)
+#EXTINF:-1 tvg-id="7378" tvg-logo="http://cooltv4u.xyz/stalker_portal/misc/logos/320/1391.jpg" group-title="MALAYALAM", REPORTER TV_HD (S)
 https://allinonereborn.com/cool.php?id=7378
 
-#EXTINF:-1 tvg-id="10831" tvg-logo="http://cooltv4u.xyz/stalker_portal/misc/logos/320/1382.jpg" group-title="MALAYALAM" POWER VISION _HD
+#EXTINF:-1 tvg-id="10831" tvg-logo="http://cooltv4u.xyz/stalker_portal/misc/logos/320/1382.jpg" group-title="MALAYALAM", POWER VISION _HD
 https://allinonereborn.com/cool.php?id=10831
 
-#EXTINF:-1 tvg-id="5549" tvg-logo="http://cooltv4u.xyz/stalker_portal/misc/logos/320/1387.jpg" group-title="MALAYALAM" MATHRUBUMI NEWS _HD
+
+#EXTINF:-1 tvg-id="5555" tvg-logo="http://cooltv4u.xyz/stalker_portal/misc/logos/320/3574.png" group-title="MALAYALAM", DD MALAYALAM _HD
+https://allinonereborn.com/cool.php?id=5555
+
+#EXTINF:-1 tvg-id="5549" tvg-logo="http://cooltv4u.xyz/stalker_portal/misc/logos/320/1387.jpg" group-title="MALAYALAM", MATHRUBUMI NEWS _HD
 https://allinonereborn.com/cool.php?id=5549
 
-#EXTINF:-1 tvg-id="5540" tvg-logo="http://cooltv4u.xyz/stalker_portal/misc/logos/320/1388.jpg" group-title="MALAYALAM" KAUMUDY  _HD
+#EXTINF:-1 tvg-id="5540" tvg-logo="http://cooltv4u.xyz/stalker_portal/misc/logos/320/1388.jpg" group-title="MALAYALAM", KAUMUDY  _HD
 https://allinonereborn.com/cool.php?id=5540
 
-#EXTINF:-1 tvg-id="5541" tvg-logo="http://cooltv4u.xyz/stalker_portal/misc/logos/320/1396.png" group-title="MALAYALAM" NEWS 18 KERALA _HD
+#EXTINF:-1 tvg-id="5541" tvg-logo="http://cooltv4u.xyz/stalker_portal/misc/logos/320/1396.png" group-title="MALAYALAM", NEWS 18 KERALA _HD
 https://allinonereborn.com/cool.php?id=5541
 
 #EXTINF:-1 tvg-id="11126" tvg-logo="" group-title="CRICKET",_STAR SPORTS HINDI_HD_
@@ -164,9 +171,6 @@ https://allinonereborn.com/cool.php?id=7370
 
 #EXTINF:-1 tvg-id="7610" tvg-logo="" group-title="CRICKET",STAR SPORTS 2 ENG 4K
 https://allinonereborn.com/cool.php?id=7610
-
-#EXTINF:-1 tvg-id="10959" tvg-logo="" group-title="CRICKET",STAR SPORTS 3 HD
-https://allinonereborn.com/cool.php?id=10959
 
 #EXTINF:-1 tvg-id="113" tvg-logo="" group-title="CRICKET",IN: SONY TEN 5_4K
 https://allinonereborn.com/cool.php?id=113
